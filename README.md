@@ -9,7 +9,7 @@ Typer Problem
   - Backbone (Dokumentasi : http://backbonejs.org/)
   - Bootstrap (Dokumentasi : http://getbootstrap.com/getting-started/).
   
-2. Agar lebih smooth, elemen bisa ditambahkan  CSS3 transistion property  : 'transition': 'all 0.5s linear'.
+2. Agar lebih smooth, elemen bisa ditambahkan  CSS3 transition property  : 'transition': 'all 0.5s linear'.
 
 3.	Saya sudah menguji di 3 Browser (Google Chrome, Mozila Firefox, dan Internet Explorer) terbaru dan script boleh berjalan dengan lancar di ketiga browser tersebut.
 
